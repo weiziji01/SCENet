@@ -16,6 +16,7 @@ Object Detection is a fundamental procedure in the interpretation of remote sens
 
 ## Citation
 ---
+If the work or the code is helpful, please cite the paper:
 ```
 @ARTICLE{11223957,
   author={Wei, Ziji and Zhang, Tianwei and Sun, Xu and Zhuang, Lina and Wang, Degang and Marinoni, Andrea and Gao, Lianru},
@@ -27,6 +28,18 @@ Object Detection is a fundamental procedure in the interpretation of remote sens
   pages={1-1},
   keywords={Object detection;Detectors;Measurement;Image edge detection;Remote sensing;Feature extraction;Object recognition;Accuracy;Training;Location awareness;remote sensing images;deep learning;small object detection;similar object identification},
   doi={10.1109/TGRS.2025.3628045}}
+```
+
+And, If you want to conduct experiments on FAIR1M-AIR dataset, please cite the original dataset source: [FAIR1M](https://www.sciencedirect.com/science/article/pii/S0924271621003269)
+```
+@article{SUN2022116,
+title = {FAIR1M: A benchmark dataset for fine-grained object recognition in high-resolution remote sensing imagery},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {184},
+pages = {116-130},
+year = {2022},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2021.12.004}}
 ```
 
 ## Ackonwledgement
