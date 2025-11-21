@@ -23,10 +23,10 @@ If the work or the code is helpful, please cite the paper:
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Similar Category Enhancement Network for Discrimination on Small Object Detection}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Object detection;Detectors;Measurement;Image edge detection;Remote sensing;Feature extraction;Object recognition;Accuracy;Training;Location awareness;remote sensing images;deep learning;small object detection;similar object identification},
+  pages={1-18},
+  keywords={Object detection;Detectors;Measurement;Image edge detection;Remote sensing;Feature extraction;Object recognition;Accuracy;Training;Location awareness;Deep learning;remote sensing images;similar object identification;small object detection (SOD)},
   doi={10.1109/TGRS.2025.3628045}}
 ```
 
